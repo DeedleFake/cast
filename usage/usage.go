@@ -1,3 +1,4 @@
+// Package usage provides a simple API for getting network usage info.
 package usage
 
 // Interface represents a network interface present on the system.
